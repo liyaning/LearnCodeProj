@@ -1,5 +1,0 @@
-E:\_lyn\LearnCodeProj\DesignPatternLearn\test\bin\Debug\test.exe.config
-E:\_lyn\LearnCodeProj\DesignPatternLearn\test\bin\Debug\test.exe
-E:\_lyn\LearnCodeProj\DesignPatternLearn\test\bin\Debug\test.pdb
-E:\_lyn\LearnCodeProj\DesignPatternLearn\test\obj\Debug\test.exe
-E:\_lyn\LearnCodeProj\DesignPatternLearn\test\obj\Debug\test.pdb
