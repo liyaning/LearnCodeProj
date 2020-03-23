@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.string", "1.string\1.string.csproj", "{79AA11FB-89E4-48D7-BCFB-443DC635E067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeLearn", "AttributeLearn\AttributeLearn.csproj", "{61AA0838-04E4-4862-A173-C7FEE14B217A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AA11FB-89E4-48D7-BCFB-443DC635E067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AA11FB-89E4-48D7-BCFB-443DC635E067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AA11FB-89E4-48D7-BCFB-443DC635E067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AA11FB-89E4-48D7-BCFB-443DC635E067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AA0838-04E4-4862-A173-C7FEE14B217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AA0838-04E4-4862-A173-C7FEE14B217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AA0838-04E4-4862-A173-C7FEE14B217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AA0838-04E4-4862-A173-C7FEE14B217A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

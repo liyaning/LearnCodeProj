@@ -1,0 +1,6 @@
+E:\_lyn\LearnCodeProj\DesignPatternLearn\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+E:\_lyn\LearnCodeProj\DesignPatternLearn\FactoryPattern\bin\Debug\FactoryPattern.exe
+E:\_lyn\LearnCodeProj\DesignPatternLearn\FactoryPattern\bin\Debug\FactoryPattern.pdb
+E:\_lyn\LearnCodeProj\DesignPatternLearn\FactoryPattern\obj\Debug\1.FactoryPattern.csprojResolveAssemblyReference.cache
+E:\_lyn\LearnCodeProj\DesignPatternLearn\FactoryPattern\obj\Debug\FactoryPattern.exe
+E:\_lyn\LearnCodeProj\DesignPatternLearn\FactoryPattern\obj\Debug\FactoryPattern.pdb
